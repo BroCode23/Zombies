@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\Public\\anaconda3\\python.exe",
+    "editor.tabCompletion": "on",
+    "editor.unusualLineTerminators": "auto",
+    "editor.comments.insertSpace": true,
+    "python.linting.pylintArgs": [
+        "--variable-naming=camelCase"
+    ]
+}
